@@ -1,4 +1,4 @@
-laravel-admin
+laravel-admin改造版
 =====
 
 [![Build Status](https://travis-ci.org/z-song/laravel-admin.svg?branch=master)](https://travis-ci.org/z-song/laravel-admin)
